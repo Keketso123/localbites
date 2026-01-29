@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "The Market",
+    "description": "Casual dining at Maseru Mall with a variety of local and international options.",
+    "menu": [
+      { "name": "Grilled Chicken Platter", "price": 110 },
+      { "name": "Basotho Veggie Bowl", "price": 85 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Deelectable Restaurant",
+    "description": "A popular eatery serving fresh meals and local favorites.",
+    "menu": [
+      { "name": "Beef Steak", "price": 140 },
+      { "name": "Garden Salad", "price": 60 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "No.7 Restaurant",
+    "description": "Well-loved for local and international dishes with hearty portions.",
+    "menu": [
+      { "name": "Lamb Shank", "price": 160 },
+      { "name": "Papa & Moroho", "price": 70 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Café What?",
+    "description": "A cozy café with a relaxed vibe and great coffee.",
+    "menu": [
+      { "name": "Café Latte", "price": 30 },
+      { "name": "Veggie Wrap", "price": 55 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Piripiri Restaurant",
+    "description": "Portuguese-inspired restaurant with bold flavors.",
+    "menu": [
+      { "name": "Piri Piri Chicken", "price": 120 },
+      { "name": "Garlic Prawns", "price": 150 }
+    ]
+  }
+]
